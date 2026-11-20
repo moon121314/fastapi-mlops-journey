@@ -1,3 +1,10 @@
+<!-- BADGES START HERE -->
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.164.0-009688?style=for-the-badge&logo=fastapi)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker)
+<!-- BADGES END HERE -->
+
 # 🚀 FastAPI MLOps Journey
 
 ## 📖 Project Overview
@@ -27,3 +34,10 @@ If you want to run this project on your own machine, follow these steps:
    ```bash
    git clone https://github.com/moon121314/fastapi-mlops-journey.git
    cd fastapi-mlops-journey/Mlops
+
+   # 🚀 FastAPI MLOps Journey
+
+
+
+## 📖 Project Overview
+... (Keep the rest of your README exactly the same) ...
